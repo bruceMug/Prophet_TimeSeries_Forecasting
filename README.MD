@@ -19,7 +19,7 @@ For more detailed instructions on installing Prophet, please refer to the [offic
 ## Usage
 1. To use the code in this repository, you can clone the repository using the following command:
 
-```git clone https://github.com/brucemug/prophet.git```
+```https://github.com/bruceMug/Prophet_TimeSeries_Forecasting.git```
 
 2. Navigate to the cloned repository and run the following command to start the Jupyter notebook or Jupyter lab server:
 
